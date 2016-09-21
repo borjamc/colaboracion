@@ -1,5 +1,5 @@
 <?PHP
 
-echo"HOLA A TOD@S";
+echo"HOLA A practica";
 
 ?>
