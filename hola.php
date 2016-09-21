@@ -1,5 +1,5 @@
 <?PHP
-
-echo"HOLA A practica";
+  $nombre="Roberto";
+echo "HOLA" . $nombre;
 
 ?>
