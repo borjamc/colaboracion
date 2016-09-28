@@ -4,7 +4,7 @@ echo "HOLA" . $nombre;
 
 <<<<<<< HEAD
 $nombre="Roberto";
-echo"adios A4 practica";
+echo"adios A4 por practica";
 
 ?>
 =======
